@@ -1,2 +1,9 @@
 git init
 git add MyFile.txt
+git add Info/
+git config user.name "Nimit_INFO"
+then i did commit in git and 
+modified Myfile.txt where i wrote coure code and name at the top .
+i learned when doing git status that the file Myfile.txt is in modified status 
+
+
